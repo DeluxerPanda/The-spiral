@@ -1,2 +1,2 @@
-# The-spiral
-The Spiral - It's a Game |  (work in progress)
+# The Spiral - It's a Game
+(Work in progress)
